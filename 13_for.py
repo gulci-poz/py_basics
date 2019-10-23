@@ -12,8 +12,8 @@ print()
 
 sum_of_prices = 0
 prices = [1, 2, 3, 4, 5]
-for prices in prices:
-    sum_of_prices += prices
+for price in prices:
+    sum_of_prices += price
 
 print('Sum of prices:', sum_of_prices)
 
